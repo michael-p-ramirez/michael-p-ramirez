@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michael-p-ramirez
-- 👀 I’m interested in data science, more advance python
+- 👀 I’m interested in data science, python, and R. Looking to expand my coding skill.
 - 🌱 I’m currently learning time series,bayesian inf.
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me ...
