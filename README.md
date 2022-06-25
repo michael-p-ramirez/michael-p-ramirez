@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael.
  
-As a Statistics and Data Science undergrad at UCSB, I'm mainly interested in expanding my coding skills, networking with other members, and collaborating on projects.
+ I'm mainly interested in expanding my coding skills, networking with other members, and collaborating on projects.
 
 
 - 👀 I’m interested in time series, bayesian inference, Principal Component Analysis (PCA), and other interesting projects
